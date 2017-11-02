@@ -1,0 +1,12 @@
+c:\users\owner\documents\visual studio 2013\Projects\Encryption Games\Encryption Games\bin\Debug\Encryption Games.exe.config
+c:\users\owner\documents\visual studio 2013\Projects\Encryption Games\Encryption Games\bin\Debug\Encryption Games.exe
+c:\users\owner\documents\visual studio 2013\Projects\Encryption Games\Encryption Games\bin\Debug\Encryption Games.pdb
+c:\users\owner\documents\visual studio 2013\Projects\Encryption Games\Encryption Games\obj\Debug\Encryption Games.csprojResolveAssemblyReference.cache
+c:\users\owner\documents\visual studio 2013\Projects\Encryption Games\Encryption Games\obj\Debug\Encryption_Games.Form1.resources
+c:\users\owner\documents\visual studio 2013\Projects\Encryption Games\Encryption Games\obj\Debug\Encryption_Games.Properties.Resources.resources
+c:\users\owner\documents\visual studio 2013\Projects\Encryption Games\Encryption Games\obj\Debug\Encryption Games.csproj.GenerateResource.Cache
+c:\users\owner\documents\visual studio 2013\Projects\Encryption Games\Encryption Games\obj\Debug\Encryption Games.exe
+c:\users\owner\documents\visual studio 2013\Projects\Encryption Games\Encryption Games\obj\Debug\Encryption Games.pdb
+C:\Users\owner\Documents\Visual Studio 2013\Projects\Encryption Games\Encryption Games\obj\Debug\Encryption_Games.FormGames.resources
+C:\Users\owner\Documents\Visual Studio 2013\Projects\Encryption Games\Encryption Games\obj\Debug\Encryption_Games.FormBullsAndCows.resources
+C:\Users\owner\Documents\Visual Studio 2013\Projects\Encryption Games\Encryption Games\obj\Debug\Encryption_Games.FormMasterMind.resources
